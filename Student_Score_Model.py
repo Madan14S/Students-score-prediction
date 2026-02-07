@@ -1,6 +1,6 @@
 
 """
-Linear Regression From Scratch (Math Only)
+Linear Regression
 Author: Madan
 """
 
